@@ -1,0 +1,29 @@
+/* 
+===========================================================
+======================== Galaxy S3 ========================
+===========================================================
+*/
+
+/* ------------ Portrait ------------ */
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
+    /* ----------------------------------------- Styles Goes Here ----------------------------------------- */
+}
+
+/* ------------ Landscape ------------ */
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
+    /* ----------------------------------------- Styles Goes Here ----------------------------------------- */
+}
+
+/* 
+===========================================================
+================= Galaxy S4 / S5 / Note 3 =================
+===========================================================
+*/
+
+/* ------------ Portrait ------------ */
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3) {
+    /* ----------------------------------------- Styles Goes Here ----------------------------------------- */
+}
