@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
 	<img src="https://i.imgur.com/ng1TORA.png" alt="ScrollReveal" width="20%">
 </p>
  
@@ -38,8 +38,8 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 #### Task Runner
 > * [gulp](https://gulpjs.com/) - *Integration is processing*
 
-#### JS Libraries
-> * [Useful JS Library List](https://gulpjs.com/) - *A collection of useful Javascript Libraries*
+#### JavaScript Resources
+> * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 ### Fonts
 ---
@@ -65,7 +65,7 @@ The back-end is basically how the site works, updates and dealing with databases
 #### Python Framework
 > * [Django](https://www.djangoproject.com/) - *Integration is processing*
 
-#### Python Libraries
+#### Python Resources
 > * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
 ### Node.js
@@ -101,6 +101,7 @@ and patterns.
 > * [uplabs](https://www.uplabs.com/) - Is the leading community of creatives, offering the best digital inspiration and downloads, every day.
 
 #### GitHub Tools
+> * [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 > * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 > * [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
 > * [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - A template to make good README.
