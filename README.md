@@ -1,5 +1,5 @@
 <p align="right">
-	<img src="https://i.imgur.com/ng1TORA.png" alt="ScrollReveal" width="30%">
+	<img src="https://i.imgur.com/ng1TORA.png" alt="ScrollReveal" width="20%">
 </p>
  
 # Web-Dev-Tools
