@@ -1,16 +1,24 @@
+<p align="right">
+	<img src="https://i.imgur.com/ng1TORA.png" alt="ScrollReveal" width="30%">
+</p>
+ 
 # Web-Dev-Tools
 Here at [CyberOctane](http://www.cyberoctane.com/), we use following tools to optimize our day-to-day studio workflow.
 
-## Front-End Workflow
+## Front-End Tools
 As we highly concerning about pixel perfect designing we use & hope to use these tools to craft a stunning masterpiece.
 
 ### HTML/CSS
 ---
 
 #### HTML
-> * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - *v6* 
+> * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - *v6*
+> * [Favicon Generator](https://realfavicongenerator.net/)
 
-#### CSS Framework
+#### CSS
+> * [Media Queries for Standard Devices](media-queries-for-standard-devices.md)
+
+#### Framework
 > * [Bootstrap](https://getbootstrap.com/) - *v4.1* 
 
 ### Javascript (ES6)
@@ -39,14 +47,14 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 
 ### Icon Packs
 ---
-> * [font awesome](https://fontawesome.com/)
+> * [Font Awesome](https://fontawesome.com/)
 > * [Ionicons](https://ionicons.com/)
 > * [icons8](https://icons8.com/)
 
 <br>
 
-## Back-End Workflow
-The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) & [node.js](https://nodejs.org/en/) which are most trending languages on [GitHub](https://github.com/).
+## Back-End Tools
+The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) & [Node.js](https://nodejs.org/en/) which are most trending languages on [GitHub](https://github.com/).
 
 ### Python
 ---
@@ -75,8 +83,28 @@ The back-end is basically how the site works, updates and dealing with databases
 Code editor is doing another big impact on our studio practice. After playing with different code editors in several years we have stick in to [Visual Studio Code](https://code.visualstudio.com/).
 
 #### VS Code Plugins
-> * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 > * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+> * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
+<br>
+
+## Additional Tools
+
+#### Free Stock Images/Illustrations
+> * [DrawKit](https://www.drawkit.io/) - Is a collection of free, beautiful, customisable MIT licensed illustrations in two styles, to use on your next website, app, or project.
+> * [Unsplash](https://unsplash.com/er) - Free photos.
+
+#### UI/Color Inspirations
+> * [COLOURlovers](https://www.colourlovers.com/) - Is a creative community where people from around the world create and share colors, palettes 
+and patterns.
+> * [CSS Awards](https://www.cssawards.net/) - Is a web designer inspiration gallery, where a high quality of CSS websites placed from around the world.
+> * [uplabs](https://www.uplabs.com/) - Is the leading community of creatives, offering the best digital inspiration and downloads, every day.
+
+#### GitHub Tools
+> * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+> * [public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+> * [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - A template to make good README.
+> * [shields.io](https://github.com/badges/shields/) - GitHub legible badges in SVG and raster format.
 
 <br>
 
@@ -85,27 +113,7 @@ Code editor is doing another big impact on our studio practice. After playing wi
 
 ## Learning Resources
 
+* **[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Roadmap to becoming a web developer.
 * **[freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp)** - is a friendly community where you can learn to code for free.
 * **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - is a list of freely available programming e-books.
 * **[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)** - is a list of helpful front-end related questions you can use to interview potential candidates, test yourself.
-
-## Media Queries for Standard Devices
-* [GitHub] - https://github.com/CyberOctane/dev-tools/blob/master/CSS%20Media%20Query%20Boiler%20Plate.css
-
-    > #### Devices List
-    >   * Samsung
-    >       * Galaxy S3
-    >       * Galaxy S4 / S5 / Note 3
-    >       * Galaxy S6
-    >   * Google
-    >       * Pixel 2
-    >       * Pixel 2XL
-    >   * Apple
-    >       * iPhone 4 / 4S
-    >       * iPhone 5 / 5S / 5C / 5SE
-    >       * iPhone 6 / 6S / 7 / 8
-    >       * iPhone 6+ / 7+ / 8+
-    >       * iPhone X
-
-* [material . io] - https://material.io/tools/devices/
-* [CSS Tricks] - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/

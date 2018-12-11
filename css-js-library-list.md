@@ -14,6 +14,7 @@ A curated list of awesome CSS/JavaScript frameworks, libraries, software and res
 
 * [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations.
 * [jQuery](https://github.com/daneden/animate.css) - A JavaScript library designed to simplify event handling, animation, and Ajax.
+* [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets.
 * [moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [redux](https://github.com/reduxjs/redux) - A predictable state container for JavaScript apps.
 * [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library.
