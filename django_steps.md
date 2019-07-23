@@ -21,7 +21,7 @@
 ## Django Installation
 
 01. Activate the virtual environment. (No need If you are already in the virtual environment)
-02. Type `pip intall django` to install django.
+02. Type `pip install django` to install django.
 03. Type `pip freeze` to view all the installed packages.
 
 ## Aditional Installation
