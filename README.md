@@ -1,9 +1,11 @@
 <p align="right">
-	<img src="https://i.imgur.com/ng1TORA.png" alt="ScrollReveal" width="20%">
+	<img src="https://avatars1.githubusercontent.com/u/29823121?s=200&v=4" alt="cyberoctane" width="10%">
 </p>
+
+You can view the markdown preview side-by-side (Ctrl+K V) in VS Code.
  
 # Web-Dev-Tools
-Here at [CyberOctane](http://www.cyberoctane.com/), we use following tools to optimize our day-to-day studio workflow.
+Here at [Cyber Octane](http://www.cyberoctane.com/), we use following tools to optimize our day-to-day studio workflow.
 
 ## Front-End Tools
 As we highly concerning about pixel perfect designing we use & hope to use these tools to craft a stunning masterpiece.
@@ -12,14 +14,14 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 ---
 
 #### HTML
-> * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - *v6*
+> * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 > * [Favicon Generator](https://realfavicongenerator.net/)
 
 #### CSS
 > * [Media Queries for Standard Devices](media-queries-for-standard-devices.md)
 
-#### Framework
-> * [Bootstrap](https://getbootstrap.com/) - *v4.1* 
+#### CSS Framework
+> * [Bootstrap](https://getbootstrap.com/)
 
 ### Javascript (ES6)
 ---
@@ -28,15 +30,15 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 > * [npm](https://www.npmjs.com/)
 
 #### Javascript Framework
-> * [React](https://reactjs.org/) - *Integration is processing*
-> * [Redux](https://redux.js.org/) - *Integration is processing* 
-> * [Vue.js](https://vuejs.org/) - *Integration is processing*
+> * [React](https://reactjs.org/)
+> * [Redux](https://redux.js.org/) 
+> * [Vue.js](https://vuejs.org/)
 
 #### Module Loader/Bundler
-> * [webpack](https://webpack.js.org/) - *Integration is processing*
+> * [webpack](https://webpack.js.org/)
 
 #### Task Runner
-> * [gulp](https://gulpjs.com/) - *Integration is processing*
+> * [gulp](https://gulpjs.com/)
 
 #### JavaScript Resources
 > * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
@@ -63,10 +65,12 @@ The back-end is basically how the site works, updates and dealing with databases
 > * [Pip](https://pypi.org/project/pip/)
 
 #### Python Framework
-> * [Django](https://www.djangoproject.com/) - *Integration is processing*
+> * [Django](https://www.djangoproject.com/)
 
 #### Python Resources
 > * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+> * [Awesome Django](https://github.com/shahraizali/awesome-django) - A curated list of awesome Django apps, projects and resources.
+> * [Awesome Django 2](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django.
 
 ### Node.js
 ---
@@ -75,7 +79,7 @@ The back-end is basically how the site works, updates and dealing with databases
 > * [npm](https://www.npmjs.com/)
 
 #### Python Framework
-> * [express](https://expressjs.com/) - *Integration is processing* 
+> * [express](https://expressjs.com/)
 
 <br>
 
