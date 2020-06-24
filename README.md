@@ -3,10 +3,11 @@
 > Here at [Cyber Octane](http://www.cyberoctane.com/), we use following tools to optimize our day-to-day studio workflow.
 
 [![](https://img.shields.io/badge/%E2%9D%A4-Django%20Cheat%20Sheet-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/CyberOctane/studio-dev-tools/blob/master/src/django_cheat_sheet.md)
+[![](https://img.shields.io/badge/%E2%9D%A4-WordPress%20Cheat%20Sheet-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/CyberOctane/studio-dev-tools/blob/master/src/wordpress_cheat_sheet.md)
 [![](https://img.shields.io/badge/-Fontend%20Road%20Map%202020-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 [![](https://img.shields.io/badge/-Backend%20Road%20Map%202020-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-## Code Editor
+## Code Editors
 Code editor is doing another big impact on our studio practice. After playing with different code editors in several years we have stick in to [Visual Studio Code](https://code.visualstudio.com/).
 
 #### VS Code Plugins
@@ -26,7 +27,7 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 ### HTML/CSS
 
 #### CSS Frameworks
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/) - A free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 
 #### Tools
 - [HTML 5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
@@ -34,15 +35,32 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 
 #### Resources
 - [Media Queries for Standard Devices](src/media_queries_for_standard_devices.md)
+- [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 
 ### Javascript
 
 #### UI Frameworks
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+- [React](https://reactjs.org/) - An open-source JavaScript library for building user interfaces, backed by Facebook.
+- [Vue.js](https://vuejs.org/) - An open-source model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 
 #### Resources
-- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries & resources.
+
+## Back-End Tools
+The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) which is most trending on [GitHub](https://github.com/).
+
+### Python
+
+#### Package Managers
+- [Pip](https://pypi.org/project/pip/) - A standard package-management system used to install and manage software packages written in Python.
+
+#### Python Frameworks
+- [Django](https://www.djangoproject.com/) - A Python-based free and open-source web framework that follows the model-template-view architectural pattern.
+
+#### Resources
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+- [Awesome Django](https://github.com/shahraizali/awesome-django) - A curated list of awesome Django apps, projects and resources.
+- [Awesome Django 2](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django.
 
 ## In-Production
 
@@ -50,4 +68,35 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 - [webpack](https://webpack.js.org/)
 
 #### Task Runner
-- [gulp](https://gulpjs.com/)
+- [Gulp](https://gulpjs.com/)
+
+## Additional Tools
+
+#### Icon Packs
+- [Font Awesome](https://fontawesome.com/)
+- [Ionicons](https://ionicons.com/)
+- [icons8](https://icons8.com/)
+
+#### Free Stock Images/Illustrations
+- [DrawKit](https://www.drawkit.io/) - A collection of free, beautiful, customisable MIT licensed illustrations.
+- [Unsplash](https://unsplash.com/er) - Free photos.
+
+#### Color Inspirations
+- [COLOURlovers](https://www.colourlovers.com/) - A creative community where people from around the world create and share colors, palettes and patterns.
+
+#### UI Inspirations
+- [Awwwards](https://www.awwwards.com/) - 
+- [CSS Awards](https://www.cssawards.net/) - A web designer inspiration gallery, where a high quality of CSS websites placed from around the world.
+- [uplabs](https://www.uplabs.com/) - A community of creatives, offering the best digital inspiration and downloads, every day.
+
+#### GitHub Tools
+
+- [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - A template to make good README.
+- [shields.io](https://github.com/badges/shields/) - GitHub legible badges in SVG and raster format.
+
+## Additional Resources
+
+- [Awesome List](https://github.com/sindresorhus/awesome) - A Curated list of awesome lists.
+- [List of Free Public APIs](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A list of freely available programming e-books.
+- [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself.
