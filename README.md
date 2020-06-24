@@ -46,6 +46,13 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 #### Resources
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries & resources.
 
+### JAMStack
+
+#### Static Site Generators
+
+- [Hugo](https://gohugo.io/) - A static site generator written in Go.
+- [11ty](https://www.11ty.dev/)
+
 ## Back-End Tools
 The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) which is most trending on [GitHub](https://github.com/).
 
@@ -75,7 +82,13 @@ The back-end is basically how the site works, updates and dealing with databases
 #### Icon Packs
 - [Font Awesome](https://fontawesome.com/)
 - [Ionicons](https://ionicons.com/)
-- [icons8](https://icons8.com/)
+- [icons8](https://formspree.io/)
+
+#### Static Site Form Handlers
+
+- [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
+- [Kwes Form Builder](https://kwes.io/)
+- [Formspree ](https://icons8.com/)
 
 #### Free Stock Images/Illustrations
 - [DrawKit](https://www.drawkit.io/) - A collection of free, beautiful, customisable MIT licensed illustrations.
