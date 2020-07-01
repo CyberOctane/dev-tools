@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Backend%20Road%20Map%202020-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
 ## Code Editors
-Code editor is doing another big impact on our studio practice. After playing with different code editors in several years we have stick in to [Visual Studio Code](https://code.visualstudio.com/).
+>Code editor is doing another big impact on our studio practice. After playing with different code editors in several years we have stick in to [`Visual Studio Code`](https://code.visualstudio.com/).
 
 #### VS Code Plugins
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -22,7 +22,7 @@ Code editor is doing another big impact on our studio practice. After playing wi
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 ## Front-End Development
-As we highly concerning about pixel perfect designing we use & hope to use these tools to craft a stunning masterpiece.
+>As we highly concerning about pixel perfect designing we use & hope to use these tools to craft a stunning masterpiece.
 
 ### HTML/CSS
 
@@ -36,6 +36,7 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 #### Resources
 - [Media Queries for Standard Devices](src/media_queries_for_standard_devices.md)
 - [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - Manually Curated list of design and UI resources by [Brad Traversy](https://github.com/bradtraversy).
 
 ### Javascript
 
@@ -54,7 +55,7 @@ As we highly concerning about pixel perfect designing we use & hope to use these
 - [11ty](https://www.11ty.dev/)
 
 ## Back-End Tools
-The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) which is most trending on [GitHub](https://github.com/).
+>The back-end is basically how the site works, updates and dealing with databases and servers. Usually we people who work on the back-end are mostly worried about things like security, structure and content management. To do such things we use [Python](https://www.python.org/) which is most trending on [GitHub](https://github.com/).
 
 ### Python
 
@@ -86,9 +87,18 @@ The back-end is basically how the site works, updates and dealing with databases
 
 #### Static Site Form Handlers
 
+Free
 - [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
+- [Static Forms](https://www.staticforms.xyz/)
 - [Kwes Form Builder](https://kwes.io/)
-- [Formspree ](https://icons8.com/)
+- [Formspree](https://icons8.com/)
+- [getform.io](https://getform.io/)
+- [FormBackend](https://www.formbackend.com/)
+
+Paid
+- [formX](https://formx.stream/index)
+- [Formcarry](https://formcarry.com/)
+- [Basin](https://usebasin.com/)
 
 #### Free Stock Images/Illustrations
 - [DrawKit](https://www.drawkit.io/) - A collection of free, beautiful, customisable MIT licensed illustrations.
@@ -110,6 +120,7 @@ The back-end is basically how the site works, updates and dealing with databases
 ## Additional Resources
 
 - [Awesome List](https://github.com/sindresorhus/awesome) - A Curated list of awesome lists.
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 - [List of Free Public APIs](https://github.com/toddmotto/public-apis) - A collective list of free APIs for use in software and web development.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A list of freely available programming e-books.
 - [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself.
