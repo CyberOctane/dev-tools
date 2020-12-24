@@ -91,14 +91,20 @@ Free
 - [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
 - [Static Forms](https://www.staticforms.xyz/)
 - [Kwes Form Builder](https://kwes.io/)
-- [Formspree](https://icons8.com/)
-- [getform.io](https://getform.io/)
+- [Formspree](https://formspree.io/)
+- [GetForm](https://getform.io/)
 - [FormBackend](https://www.formbackend.com/)
+- [FormPlug](https://danielireson.github.io/formplug-serverless/)
+- [FormSubmit](https://formsubmit.co/)
+- [Formcake](https://formcake.com/) - Not mention any file uploading ability.
 
 Paid
 - [formX](https://formx.stream/index)
 - [Formcarry](https://formcarry.com/)
 - [Basin](https://usebasin.com/)
+- [FormKeep](https://formkeep.com/)
+- [FieldGoal](https://fieldgoal.io/)
+- [Form2chat](https://form2chat.io/)
 
 #### Free Stock Images/Illustrations
 - [DrawKit](https://www.drawkit.io/) - A collection of free, beautiful, customisable MIT licensed illustrations.
